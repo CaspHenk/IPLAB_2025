@@ -23,4 +23,5 @@ EE-490(f): Lab in Signal and Image Processing
 
 ```
 ## Contributors
-This repository has been elaborated by Fabio Palmisano, Vincent Roduit, Caspar Henking and Bastien Marconato during the 2024 fall Semester.
+This repository has been elaborated by Vincent Roduit and Caspar Henking during the 2025 spring Semester.
+
